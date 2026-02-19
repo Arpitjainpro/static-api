@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "email": "23f1000820@ds.study.iitm.ac.in",
+    "version": "a0f40a80"
+  },
+  "products": [
+    {"id":"prod-a0f40a80-001","name":"Basic Item 1","category":"home","price":168.23,"stock":111,"rating":3.4},
+    {"id":"prod-a0f40a80-002","name":"Standard Item 2","category":"sports","price":484.46,"stock":198,"rating":4.5},
+    {"id":"prod-a0f40a80-003","name":"Elite Item 3","category":"home","price":402.37,"stock":184,"rating":4.8},
+    {"id":"prod-a0f40a80-004","name":"Basic Item 4","category":"books","price":272.8,"stock":83,"rating":1.2},
+    {"id":"prod-a0f40a80-005","name":"Pro Item 5","category":"electronics","price":110.87,"stock":60,"rating":2.9},
+    {"id":"prod-a0f40a80-006","name":"Standard Item 6","category":"books","price":309.42,"stock":16,"rating":4.9},
+    {"id":"prod-a0f40a80-007","name":"Basic Item 7","category":"sports","price":139.35,"stock":99,"rating":4.1},
+    {"id":"prod-a0f40a80-008","name":"Pro Item 8","category":"electronics","price":43.58,"stock":148,"rating":4.4},
+    {"id":"prod-a0f40a80-009","name":"Premium Item 9","category":"home","price":414.05,"stock":173,"rating":4.6},
+    {"id":"prod-a0f40a80-010","name":"Basic Item 10","category":"clothing","price":80.05,"stock":111,"rating":4.7},
+    {"id":"prod-a0f40a80-011","name":"Standard Item 11","category":"clothing","price":265.91,"stock":29,"rating":1.6},
+    {"id":"prod-a0f40a80-012","name":"Basic Item 12","category":"sports","price":430.73,"stock":42,"rating":2.5},
+    {"id":"prod-a0f40a80-013","name":"Basic Item 13","category":"electronics","price":104.49,"stock":190,"rating":3.8},
+    {"id":"prod-a0f40a80-014","name":"Basic Item 14","category":"clothing","price":105.49,"stock":117,"rating":3.9},
+    {"id":"prod-a0f40a80-015","name":"Basic Item 15","category":"books","price":156.77,"stock":122,"rating":1.7},
+    {"id":"prod-a0f40a80-016","name":"Basic Item 16","category":"home","price":196.66,"stock":51,"rating":1.1}
+  ],
+  "aggregations": {
+    "clothing": {
+      "count": 3,
+      "inventoryValue": 28939.27
+    }
+  }
+}
