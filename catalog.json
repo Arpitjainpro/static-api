@@ -22,9 +22,10 @@
     {"id":"prod-a0f40a80-016","name":"Basic Item 16","category":"home","price":196.66,"stock":51,"rating":1.1}
   ],
   "aggregations": {
-    "clothing": {
-      "count": 3,
-      "inventoryValue": 28939.27
-    }
+    "clothing": {"count":3,"inventoryValue":28939.27},
+    "electronics": {"count":3,"inventoryValue":33447.34},
+    "books": {"count":3,"inventoryValue":46354.01},
+    "sports": {"count":3,"inventoryValue":125036.85},
+    "home": {"count":4,"inventoryValue":162164.30}
   }
 }
